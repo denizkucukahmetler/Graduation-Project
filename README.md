@@ -1,6 +1,6 @@
 # Graduation-Project
 
-This repository consists of the reports of my graduation project "Unsupervised SSVEP Signal Classification". The codes will be available with the paper we will submit soon. 
+This repository consists of the reports of my graduation project, "Unsupervised SSVEP Signal Classification". The codes will be available with the paper we will submit soon.
 
 Supervisor: Huseyin Ozkan
 
