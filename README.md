@@ -5,7 +5,7 @@ This repository consists of the reports of my graduation project "Unsupervised S
 Supervisor: Huseyin Ozkan
 
 Group: 
-Osman Berke Guney (MS student, secondary supervisor)
-Pelinsu Ciftcioglu
+Osman Berke Guney (MS student, secondary supervisor) //
+Pelinsu Ciftcioglu //
 Giray Coskun
 
